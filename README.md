@@ -1,6 +1,8 @@
 ## App Status:
 [![<CircleCI>](https://circleci.com/gh/TaiBT2/udacity-p-4.svg?style=svg)](https://github.com/TaiBT2/udacity-p-4)
 
+https://github.com/TaiBT2/udacity-p-4
+
 ## Project Tasks
 
 The project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project you will:
