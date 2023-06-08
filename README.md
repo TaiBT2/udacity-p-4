@@ -1,5 +1,5 @@
 ## App Status:
-[![<CircleCI>](https://circleci.com/gh/TaiBT2/udacity-p-4.svg?style=svg)](https://https://github.com/TaiBT2/udacity-p-4)
+[![<CircleCI>](https://circleci.com/gh/TaiBT2/udacity-p-4.svg?style=svg)](https://github.com/TaiBT2/udacity-p-4)
 
 ## Project Tasks
 
