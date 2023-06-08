@@ -7,12 +7,10 @@ Forwarding from 127.0.0.1:8080 -> 80
 Forwarding from [::1]:8080 -> 80
 Handling connection for 8080
 
-# Logs running pod
 russ@russ:~/udacity/devops/p4/udacity-project-4-rus$ kubectl get pods
 NAME             READY   STATUS    RESTARTS   AGE
 udacity-ml-api   1/1     Running   0          96s
 
-#Logs running ./make_prediction.sh
 russ@russ:~/udacity/devops/p4/udacity-project-4-rus$ ./make_prediction.sh
 Port: 8080
 {
@@ -21,7 +19,6 @@ Port: 8080
   ]
 }
 
-#Logs of pods processing api request
 russ@russ:~/udacity/devops/p4/udacity-project-4-rus$ kubectl logs udacity-ml-api
  * Serving Flask app "app" (lazy loading)
  * Environment: production
